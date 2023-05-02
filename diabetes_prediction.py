@@ -1,5 +1,3 @@
-"""Diabetes_Prediction_(2068 & 2048).ipynb"""
-
 #upload the csv file in google colab
 from google.colab import files
 uploaded = files.upload()
